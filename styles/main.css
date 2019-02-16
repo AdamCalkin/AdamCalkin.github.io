@@ -2,7 +2,7 @@
 
 html {
     color: white;
-    background-color: #434343;
+    background-color: #000000;
 }
 
 a:hover {
@@ -36,11 +36,13 @@ div.navigation{
 
 .heading_hw{
     border: 5px solid #434343;
+    border-radius: 25px;
     background-color: #FF6800;
     text-align: center;
     font-size: 26px;
     font-family: Oswald, sans-serif;
     font-weight: bold;
+    margin: 10px; 
 }
 
 .welcome_p {
@@ -48,14 +50,6 @@ div.navigation{
     font-size: 20px;
 }
 
-.topic_w {
-    text-align: center; 
-    border: 5px solid #434343;
-    background-color:#FF6800;
-    font-size: 26px;
-    font-family: Oswald, Sans-serif;
-    font-weight: bold;
-}
 
 footer {
     text-align: center;
